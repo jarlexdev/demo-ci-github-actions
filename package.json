@@ -1,0 +1,13 @@
+{
+  "name": "demo-ci-github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/suma.test.js",
+    "build": "echo  \"Construyendo el proyecto...\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
